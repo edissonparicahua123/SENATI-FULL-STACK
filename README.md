@@ -28,7 +28,7 @@ SENATI-FULL-STACK/index.html/index.css/README.md/img/logo.jpg
 ### 1 Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/SENATI-FULL-STACK.git
+git clone https://github.com/edissonparicahua123/SENATI-FULL-STACK.git
 ```
 
 ### 2 Entrar al directorio del proyecto
