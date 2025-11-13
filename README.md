@@ -11,13 +11,7 @@ Diseño **minimalista**, **responsivo** y basado en los **colores corporativos a
 
 ## 📁 Estructura del Proyecto
 
-SENATI-FULL-STACK/
-│
-├── index.html
-├── index.css
-├── README.md
-└── img/
-└── logo.jpg
+SENATI-FULL-STACK/index.html/index.css/README.md/img/logo.jpg
 
 
 ---
